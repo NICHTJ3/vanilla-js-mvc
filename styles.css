@@ -9,10 +9,16 @@
 }
 
 .single img {
-  height: 50vmin;
+  height: 70vmin;
   object-fit: cover;
+}
+
+.single {
+  width: 80%;
+  margin: 0 auto;
 }
 
 #app {
   height: 100vmin;
+  padding-top: 4rem;
 }
