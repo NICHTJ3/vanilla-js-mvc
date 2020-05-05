@@ -5,7 +5,7 @@ but has some different styles and some added things to help when using
 components from different files
 
 ### Main page
-![Main Page](./ReadmeStuff/Main\ Page.jpeg)
+![Main Page](https://github.com/NICHTJ3/vanilla-js-mvc/blob/master/ReadmeStuff/Main%20Page.jpeg?raw=true)
 
 ### Single dog page
-![Single Dog Page](./ReadmeStuff/Single\ Page.jpeg)
+![Single Dog Page](https://github.com/NICHTJ3/vanilla-js-mvc/blob/master/ReadmeStuff/Single%20Page.jpeg?raw=true)
