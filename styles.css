@@ -1,0 +1,18 @@
+.dog {
+  padding-bottom: 2rem;
+}
+
+.dog .card-img-top {
+  width: 100%;
+  height: 40vw;
+  object-fit: cover;
+}
+
+.single img {
+  height: 50vmin;
+  object-fit: cover;
+}
+
+#app {
+  height: 100vmin;
+}
